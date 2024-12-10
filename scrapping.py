@@ -1,6 +1,7 @@
 # Termos Gerais [v. cl 5]: https://www.sports-reference.com/termsofuse.html
-# Termos de Webscrapping: 
+# Termos de Webscrapping: https://www.sports-reference.com/bot-traffic.html
 # Arquivo robots: https://www.sports-reference.com/robots.txt
+# Primeira URL: https://fbref.com/en/comps/24/schedule/Serie-A-Scores-and-Fixtures
 
 import pandas as pd
 import numpy as np
