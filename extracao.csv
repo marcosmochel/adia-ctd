@@ -1,0 +1,381 @@
+,Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,HomeScore,AwayScore,DateTime,TotalScore,Month
+0,1.0,Sat,2024-04-13,18:30,Criciúma,0.7,1–1,0.6,Juventude,12804.0,Estádio Heriberto Hülse,,1,1,2024-04-13 18:30:00,2,April
+1,1.0,Sat,2024-04-13,18:30,Internacional,1.9,2–1,0.7,Bahia,19103.0,Estádio José Pinheiro Borba,,2,1,2024-04-13 18:30:00,3,April
+2,1.0,Sun,2024-04-14,16:00,Ath Paranaense,2.0,4–0,0.3,Cuiabá,21388.0,Ligga Arena,,4,0,2024-04-14 16:00:00,4,April
+3,1.0,Sun,2024-04-14,16:00,Vasco da Gama,0.9,2–1,1.2,Grêmio,17722.0,Estádio Club de Regatas Vasco da Gama,,2,1,2024-04-14 16:00:00,3,April
+4,1.0,Sun,2024-04-14,16:00,Corinthians,0.5,0–0,0.3,Atlético Mineiro,44285.0,Neo Química Arena,,0,0,2024-04-14 16:00:00,0,April
+5,1.0,Sun,2024-04-14,16:00,Atl Goianiense,1.6,1–2,1.2,Flamengo,31617.0,Estádio do Governo do Estado de Goiás,,1,2,2024-04-14 16:00:00,3,April
+6,1.0,Sun,2024-04-14,17:00,Cruzeiro,1.6,3–2,2.0,Botafogo (RJ),20701.0,Estádio Governador Magalhães Pinto,,3,2,2024-04-14 17:00:00,5,April
+7,1.0,Sun,2024-04-14,18:30,Vitória,1.4,0–1,0.8,Palmeiras,30644.0,Estádio Manoel Barradas,,0,1,2024-04-14 18:30:00,1,April
+9,1.0,Sat,2024-04-13,21:00,São Paulo,0.5,1–2,0.4,Fortaleza,35055.0,Estádio do Morumbi,,1,2,2024-04-13 21:00:00,3,April
+8,1.0,Sat,2024-04-13,21:00,Fluminense,1.8,2–2,1.2,Red Bull Bragantino,17645.0,Estadio Jornalista Mário Filho,,2,2,2024-04-13 21:00:00,4,April
+69,2.0,Wed,2024-06-05,19:00,Cuiabá,0.4,0–0,1.0,Vitória,3614.0,Arena Pantanal,,0,0,2024-06-05 19:00:00,0,June
+14,2.0,Wed,2024-04-17,20:00,Atlético Mineiro,1.0,1–1,0.3,Criciúma,21726.0,Arena MRV,,1,1,2024-04-17 20:00:00,2,April
+12,2.0,Wed,2024-04-17,19:00,Red Bull Bragantino,0.9,2–1,1.2,Vasco da Gama,5448.0,Estádio Nabi Abi Chedid,,2,1,2024-04-17 19:00:00,3,April
+11,2.0,Wed,2024-04-17,19:00,Grêmio,1.1,2–0,0.2,Ath Paranaense,13236.0,Arena do Grêmio,,2,0,2024-04-17 19:00:00,2,April
+15,2.0,Wed,2024-04-17,20:00,Palmeiras,1.4,0–1,1.1,Internacional,13464.0,Allianz Parque,,0,1,2024-04-17 20:00:00,1,April
+16,2.0,Wed,2024-04-17,20:00,Fortaleza,0.6,1–1,0.8,Cruzeiro,21726.0,Estádio Castelão,,1,1,2024-04-17 20:00:00,2,April
+13,2.0,Wed,2024-04-17,20:00,Juventude,1.6,2–0,1.1,Corinthians,7478.0,Estádio Alfredo Jaconi,,2,0,2024-04-17 20:00:00,2,April
+17,2.0,Tue,2024-04-16,21:30,Bahia,1.1,2–1,0.4,Fluminense,23080.0,Itaipava Arena Fonte Nova,,2,1,2024-04-16 21:30:00,3,April
+19,2.0,Thu,2024-04-18,21:30,Botafogo (RJ),0.6,1–0,0.9,Atl Goianiense,7801.0,Estádio Nilton Santos,,1,0,2024-04-18 21:30:00,1,April
+18,2.0,Wed,2024-04-17,21:30,Flamengo,1.3,2–1,0.7,São Paulo,45166.0,Estadio Jornalista Mário Filho,,2,1,2024-04-17 21:30:00,3,April
+21,3.0,Sat,2024-04-20,16:00,Fluminense,1.3,2–1,1.9,Vasco da Gama,25842.0,Estadio Jornalista Mário Filho,,2,1,2024-04-20 16:00:00,3,April
+23,3.0,Sat,2024-04-20,18:30,Grêmio,0.6,1–0,1.3,Cuiabá,22904.0,Arena do Grêmio,,1,0,2024-04-20 18:30:00,1,April
+24,3.0,Sun,2024-04-21,16:00,Vitória,1.6,2–2,2.5,Bahia,27609.0,Estádio Manoel Barradas,,2,2,2024-04-21 16:00:00,4,April
+25,3.0,Sun,2024-04-21,16:00,Palmeiras,0.4,0–0,0.2,Flamengo,29956.0,Allianz Parque,,0,0,2024-04-21 16:00:00,0,April
+22,3.0,Sat,2024-04-20,18:30,Red Bull Bragantino,0.5,1–0,1.2,Corinthians,9466.0,Estádio Nabi Abi Chedid,,1,0,2024-04-20 18:30:00,1,April
+192,3.0,Wed,2024-07-24,19:00,Criciúma,0.5,1–1,1.6,Fortaleza,,Estádio Heriberto Hülse,,1,1,2024-07-24 19:00:00,2,July
+27,3.0,Sun,2024-04-21,18:30,Atl Goianiense,0.2,0–3,1.7,São Paulo,8024.0,Estádio Antônio Accioly,,0,3,2024-04-21 18:30:00,3,April
+26,3.0,Sun,2024-04-21,16:00,Ath Paranaense,0.8,1–0,1.6,Internacional,29784.0,Ligga Arena,,1,0,2024-04-21 16:00:00,1,April
+29,3.0,Sat,2024-04-20,21:00,Atlético Mineiro,1.1,3–0,0.8,Cruzeiro,39541.0,Arena MRV,,3,0,2024-04-20 21:00:00,3,April
+28,3.0,Sun,2024-04-21,18:30,Botafogo (RJ),2.9,5–1,0.3,Juventude,13273.0,Estádio Municipal Nílton Santos,,5,1,2024-04-21 18:30:00,6,April
+33,4.0,Sun,2024-04-28,11:00,Flamengo,0.8,0–2,1.0,Botafogo (RJ),53683.0,Estadio Jornalista Mário Filho,,0,2,2024-04-28 11:00:00,2,April
+34,4.0,Sun,2024-04-28,16:00,Cruzeiro,1.2,3–1,0.3,Vitória,20083.0,Estádio Governador Magalhães Pinto,,3,1,2024-04-28 16:00:00,4,April
+39,4.0,Sat,2024-04-27,21:00,Bahia,1.1,1–0,0.1,Grêmio,35836.0,Itaipava Arena Fonte Nova,,1,0,2024-04-27 21:00:00,1,April
+40,4.0,Mon,2024-04-29,20:00,São Paulo,0.9,0–0,0.8,Palmeiras,55694.0,Estádio do Morumbi,,0,0,2024-04-29 20:00:00,0,April
+35,4.0,Sun,2024-04-28,16:00,Corinthians,1.2,3–0,0.4,Fluminense,42119.0,Neo Química Arena,,3,0,2024-04-28 16:00:00,3,April
+36,4.0,Sun,2024-04-28,18:30,Fortaleza,1.7,1–1,0.5,Red Bull Bragantino,18113.0,Estádio Castelão,,1,1,2024-04-28 18:30:00,2,April
+31,4.0,Sat,2024-04-27,16:00,Vasco da Gama,1.9,0–4,1.4,Criciúma,17124.0,Estádio Club de Regatas Vasco da Gama,,0,4,2024-04-27 16:00:00,4,April
+32,4.0,Sat,2024-04-27,17:30,Cuiabá,0.2,0–3,2.1,Atlético Mineiro,6711.0,Arena Pantanal,,0,3,2024-04-27 17:30:00,3,April
+37,4.0,Sun,2024-04-28,18:30,Juventude,1.2,1–1,1.3,Ath Paranaense,5032.0,Estádio Alfredo Jaconi,,1,1,2024-04-28 18:30:00,2,April
+38,4.0,Sun,2024-04-28,20:00,Internacional,1.9,1–1,0.3,Atl Goianiense,28468.0,Estádio José Pinheiro Borba,,1,1,2024-04-28 20:00:00,2,April
+42,5.0,Sat,2024-05-04,16:00,Fluminense,1.8,2–2,1.3,Atlético Mineiro,5168.0,Estádio Kleber José de Andrade,,2,2,2024-05-04 16:00:00,4,May
+43,5.0,Sat,2024-05-04,18:30,Red Bull Bragantino,0.6,1–1,1.8,Flamengo,9917.0,Estádio Nabi Abi Chedid,,1,1,2024-05-04 18:30:00,2,May
+46,5.0,Sun,2024-05-05,17:30,Cuiabá,0.4,0–2,1.8,Palmeiras,10781.0,Arena Pantanal,,0,2,2024-05-05 17:30:00,2,May
+44,5.0,Sun,2024-05-05,16:00,Vitória,0.2,1–3,2.9,São Paulo,25739.0,Estádio Manoel Barradas,,1,3,2024-05-05 16:00:00,4,May
+48,5.0,Sat,2024-05-04,21:00,Corinthians,1.9,0–0,1.1,Fortaleza,42456.0,Neo Química Arena,,0,0,2024-05-04 21:00:00,0,May
+47,5.0,Sun,2024-05-05,18:30,Botafogo (RJ),0.8,1–2,2.8,Bahia,22685.0,Estádio Nilton Santos,,1,2,2024-05-05 18:30:00,3,May
+71,5.0,Wed,2024-06-05,19:00,Juventude,1.3,1–0,1.6,Atl Goianiense,5123.0,Estádio Alfredo Jaconi,,1,0,2024-06-05 19:00:00,1,June
+45,5.0,Sun,2024-05-05,16:00,Ath Paranaense,2.3,1–0,0.5,Vasco da Gama,31192.0,Ligga Arena,,1,0,2024-05-05 16:00:00,1,May
+299,5.0,Wed,2024-09-25,19:00,Grêmio,1.6,1–2,0.8,Criciúma,,Arena do Grêmio,Davi de Oliveira Lacerda,1,2,2024-09-25 19:00:00,3,September
+258,5.0,Wed,2024-08-28,19:30,Cruzeiro,1.7,0–0,0.0,Internacional,35238.0,Estádio Governador Magalhães Pinto,,0,0,2024-08-28 19:30:00,0,August
+52,6.0,Sun,2024-05-12,16:00,Atl Goianiense,1.5,0–1,0.5,Cruzeiro,7576.0,Estádio Antônio Accioly,,0,1,2024-05-12 16:00:00,1,May
+54,6.0,Sun,2024-05-12,18:30,Bahia,0.8,1–0,0.5,Red Bull Bragantino,36820.0,Itaipava Arena Fonte Nova,,1,0,2024-05-12 18:30:00,1,May
+55,6.0,Sun,2024-05-12,18:30,Vasco da Gama,1.7,2–1,1.7,Vitória,11084.0,Estádio Club de Regatas Vasco da Gama,,2,1,2024-05-12 18:30:00,3,May
+51,6.0,Sun,2024-05-12,16:00,Palmeiras,1.7,0–2,0.9,Ath Paranaense,12108.0,Arena Barueri,,0,2,2024-05-12 16:00:00,2,May
+53,6.0,Sun,2024-05-12,16:00,Fortaleza,0.6,1–1,0.6,Botafogo (RJ),15914.0,Estádio Castelão,,1,1,2024-05-12 16:00:00,2,May
+50,6.0,Sat,2024-05-11,16:00,Flamengo,1.7,2–0,1.6,Corinthians,56829.0,Estadio Jornalista Mário Filho,,2,0,2024-05-11 16:00:00,2,May
+325,6.0,Wed,2024-10-09,19:30,Atlético Mineiro,1.8,2–1,1.4,Grêmio,,Arena MRV,Luiz Flávio de Oliveira,2,1,2024-10-09 19:30:00,3,October
+56,6.0,Mon,2024-05-13,20:00,São Paulo,1.8,2–1,0.6,Fluminense,39515.0,Estádio do Morumbi,,2,1,2024-05-13 20:00:00,3,May
+73,6.0,Sun,2024-06-09,16:00,Criciúma,1.8,2–5,1.5,Cuiabá,13846.0,Estádio Heriberto Hülse,,2,5,2024-06-09 16:00:00,7,June
+234,6.0,Wed,2024-08-14,19:30,Internacional,3.3,2–1,0.7,Juventude,,Estádio José Pinheiro Borba,,2,1,2024-08-14 19:30:00,3,August
+61,7.0,Sat,2024-06-01,18:30,Fluminense,2.3,1–1,1.3,Juventude,21037.0,Estadio Jornalista Mário Filho,,1,1,2024-06-01 18:30:00,2,June
+60,7.0,Sat,2024-06-01,17:30,Cuiabá,0.4,0–1,1.0,Internacional,5747.0,Arena Pantanal,,0,1,2024-06-01 17:30:00,1,June
+62,7.0,Sun,2024-06-02,16:00,Criciúma,1.2,1–2,2.7,Palmeiras,19027.0,Estádio Heriberto Hülse,,1,2,2024-06-02 16:00:00,3,June
+58,7.0,Sat,2024-06-01,16:00,Vitória,0.6,0–2,1.4,Atl Goianiense,16008.0,Estádio Manoel Barradas,,0,2,2024-06-01 16:00:00,2,June
+66,7.0,Sun,2024-06-02,18:30,Fortaleza,1.3,1–0,0.7,Ath Paranaense,12191.0,Estádio Municipal Presidente Getúlio Var...,,1,0,2024-06-02 18:30:00,1,June
+64,7.0,Sun,2024-06-02,16:00,Vasco da Gama,0.1,1–6,3.8,Flamengo,62228.0,Estadio Jornalista Mário Filho,,1,6,2024-06-02 16:00:00,7,June
+67,7.0,Sat,2024-06-01,21:00,Corinthians,0.7,0–1,1.1,Botafogo (RJ),41281.0,Neo Química Arena,,0,1,2024-06-01 21:00:00,1,June
+63,7.0,Sun,2024-06-02,16:00,Atlético Mineiro,1.0,1–1,0.4,Bahia,37994.0,Arena MRV,,1,1,2024-06-02 16:00:00,2,June
+65,7.0,Sun,2024-06-02,18:30,São Paulo,0.6,2–0,0.6,Cruzeiro,44928.0,Estádio do Morumbi,,2,0,2024-06-02 18:30:00,2,June
+59,7.0,Sat,2024-06-01,16:00,Grêmio,0.8,0–2,1.4,Red Bull Bragantino,7563.0,Estádio Major Antônio Couto Pereira,,0,2,2024-06-01 16:00:00,2,June
+76,8.0,Tue,2024-06-11,19:00,Atl Goianiense,3.1,2–2,0.4,Corinthians,1208.0,Estádio Antônio Accioly,,2,2,2024-06-11 19:00:00,4,June
+75,8.0,Tue,2024-06-11,19:00,Juventude,0.7,1–1,0.5,Vitória,6186.0,Estádio Alfredo Jaconi,,1,1,2024-06-11 19:00:00,2,June
+82,8.0,Thu,2024-06-13,20:00,Ath Paranaense,2.6,3–1,1.4,Criciúma,23424.0,Ligga Arena,,3,1,2024-06-13 20:00:00,4,June
+83,8.0,Thu,2024-06-13,21:30,Bahia,1.4,1–0,1.2,Fortaleza,29889.0,Itaipava Arena Fonte Nova,,1,0,2024-06-13 21:30:00,1,June
+84,8.0,Thu,2024-06-13,21:30,Palmeiras,2.3,2–0,0.2,Vasco da Gama,37641.0,Allianz Parque,,2,0,2024-06-13 21:30:00,2,June
+77,8.0,Tue,2024-06-11,20:00,Botafogo (RJ),1.7,1–0,0.2,Fluminense,27239.0,Estádio Nilton Santos,,1,0,2024-06-11 20:00:00,1,June
+78,8.0,Tue,2024-06-11,21:30,Red Bull Bragantino,1.2,1–2,1.0,Atlético Mineiro,4617.0,Estádio Nabi Abi Chedid,,1,2,2024-06-11 21:30:00,3,June
+79,8.0,Thu,2024-06-13,19:00,Cruzeiro,1.0,2–1,1.6,Cuiabá,26595.0,Estádio Governador Magalhães Pinto,,2,1,2024-06-13 19:00:00,3,June
+80,8.0,Thu,2024-06-13,20:00,Flamengo,1.0,2–1,1.0,Grêmio,51785.0,Estadio Jornalista Mário Filho,,2,1,2024-06-13 20:00:00,3,June
+81,8.0,Thu,2024-06-13,20:00,Internacional,0.2,0–0,0.7,São Paulo,17987.0,Estádio Heriberto Hülse,,0,0,2024-06-13 20:00:00,0,June
+91,9.0,Sun,2024-06-16,18:30,Criciúma,1.9,2–2,0.8,Bahia,8661.0,Estádio Heriberto Hülse,,2,2,2024-06-16 18:30:00,4,June
+92,9.0,Sun,2024-06-16,18:30,Grêmio,1.0,1–2,0.7,Botafogo (RJ),15595.0,Estádio Kleber José de Andrade,,1,2,2024-06-16 18:30:00,3,June
+93,9.0,Sun,2024-06-16,18:30,Vasco da Gama,1.0,0–0,0.2,Cruzeiro,11275.0,Estádio Club de Regatas Vasco da Gama,,0,0,2024-06-16 18:30:00,0,June
+94,9.0,Sat,2024-06-15,21:00,Fluminense,0.7,1–2,1.8,Atl Goianiense,14485.0,Estadio Jornalista Mário Filho,,1,2,2024-06-15 21:00:00,3,June
+95,9.0,Mon,2024-06-17,20:30,Atlético Mineiro,0.4,0–4,2.8,Palmeiras,28251.0,Arena MRV,,0,4,2024-06-17 20:30:00,4,June
+88,9.0,Sun,2024-06-16,16:00,Corinthians,0.9,2–2,0.9,São Paulo,46129.0,Neo Química Arena,,2,2,2024-06-16 16:00:00,4,June
+89,9.0,Sun,2024-06-16,16:00,Ath Paranaense,1.8,1–1,0.6,Flamengo,38641.0,Ligga Arena,,1,1,2024-06-16 16:00:00,2,June
+90,9.0,Sun,2024-06-16,17:30,Cuiabá,3.6,5–0,0.1,Fortaleza,4474.0,Arena Pantanal,,5,0,2024-06-16 17:30:00,5,June
+87,9.0,Sun,2024-06-16,16:00,Vitória,1.5,2–1,1.2,Internacional,14251.0,Estádio Manoel Barradas,,2,1,2024-06-16 16:00:00,3,June
+86,9.0,Sat,2024-06-15,18:30,Red Bull Bragantino,0.5,2–1,2.1,Juventude,3338.0,Estádio Nabi Abi Chedid,,2,1,2024-06-15 18:30:00,3,June
+102,10.0,Thu,2024-06-20,18:30,Vitória,1.5,4–2,1.9,Atlético Mineiro,15044.0,Estádio Manoel Barradas,,4,2,2024-06-20 18:30:00,6,June
+101,10.0,Wed,2024-06-19,20:00,Juventude,1.3,2–0,0.3,Vasco da Gama,4838.0,Estádio Alfredo Jaconi,,2,0,2024-06-19 20:00:00,2,June
+100,10.0,Wed,2024-06-19,20:00,São Paulo,0.9,0–1,0.5,Cuiabá,33586.0,Estádio do Morumbi,,0,1,2024-06-19 20:00:00,1,June
+97,10.0,Wed,2024-06-19,19:00,Atl Goianiense,0.6,1–2,1.4,Criciúma,6478.0,Estádio Antônio Accioly,,1,2,2024-06-19 19:00:00,3,June
+98,10.0,Wed,2024-06-19,19:00,Botafogo (RJ),0.6,1–1,1.5,Ath Paranaense,19589.0,Estádio Nilton Santos,,1,1,2024-06-19 19:00:00,2,June
+99,10.0,Wed,2024-06-19,20:00,Fortaleza,1.7,1–0,1.0,Grêmio,16935.0,Estádio Castelão,,1,0,2024-06-19 20:00:00,1,June
+103,10.0,Thu,2024-06-20,20:00,Flamengo,1.1,2–1,0.8,Bahia,49909.0,Estadio Jornalista Mário Filho,,2,1,2024-06-20 20:00:00,3,June
+106,10.0,Thu,2024-06-20,21:30,Palmeiras,3.1,2–1,1.4,Red Bull Bragantino,29119.0,Allianz Parque,,2,1,2024-06-20 21:30:00,3,June
+105,10.0,Wed,2024-06-19,21:30,Cruzeiro,1.8,2–0,0.3,Fluminense,28812.0,Estádio Governador Magalhães Pinto,,2,0,2024-06-19 21:30:00,2,June
+104,10.0,Wed,2024-06-19,21:30,Internacional,0.5,1–0,0.8,Corinthians,14447.0,Estádio Orlando Scarpelli,,1,0,2024-06-19 21:30:00,1,June
+108,11.0,Sat,2024-06-22,16:00,Criciúma,1.3,2–1,0.7,Botafogo (RJ),16256.0,Estádio Heriberto Hülse,,2,1,2024-06-22 16:00:00,3,June
+109,11.0,Sat,2024-06-22,17:30,Cuiabá,0.9,0–0,0.8,Atl Goianiense,4635.0,Arena Pantanal,,0,0,2024-06-22 17:30:00,0,June
+111,11.0,Sun,2024-06-23,16:00,Fluminense,0.3,0–1,2.0,Flamengo,57098.0,Estadio Jornalista Mário Filho,,0,1,2024-06-23 16:00:00,1,June
+110,11.0,Sat,2024-06-22,17:30,Grêmio,0.5,0–1,1.1,Internacional,27961.0,Estádio Major Antônio Couto Pereira,,0,1,2024-06-22 17:30:00,1,June
+117,11.0,Sat,2024-06-22,21:30,Vasco da Gama,1.3,4–1,0.4,São Paulo,4897.0,Estádio Club de Regatas Vasco da Gama,,4,1,2024-06-22 21:30:00,5,June
+114,11.0,Sun,2024-06-23,18:30,Atlético Mineiro,0.9,1–1,1.3,Fortaleza,20089.0,Arena MRV,,1,1,2024-06-23 18:30:00,2,June
+115,11.0,Sun,2024-06-23,18:30,Palmeiras,2.9,3–1,1.4,Juventude,38258.0,Allianz Parque,,3,1,2024-06-23 18:30:00,4,June
+112,11.0,Sun,2024-06-23,16:00,Bahia,2.5,4–1,0.7,Cruzeiro,35541.0,Itaipava Arena Fonte Nova,,4,1,2024-06-23 16:00:00,5,June
+113,11.0,Sun,2024-06-23,16:00,Ath Paranaense,1.4,1–1,1.2,Corinthians,34682.0,Ligga Arena,,1,1,2024-06-23 16:00:00,2,June
+116,11.0,Sun,2024-06-23,18:30,Red Bull Bragantino,1.4,2–1,0.7,Vitória,4426.0,Estádio Nabi Abi Chedid,,2,1,2024-06-23 18:30:00,3,June
+120,12.0,Wed,2024-06-26,19:00,Cruzeiro,1.9,2–0,0.7,Ath Paranaense,26465.0,Estádio Governador Magalhães Pinto,,2,0,2024-06-26 19:00:00,2,June
+119,12.0,Wed,2024-06-26,19:00,Botafogo (RJ),0.6,2–1,1.5,Red Bull Bragantino,13333.0,Estádio Nilton Santos,,2,1,2024-06-26 19:00:00,3,June
+126,12.0,Wed,2024-06-26,21:30,Bahia,2.5,2–1,1.5,Vasco da Gama,38318.0,Itaipava Arena Fonte Nova,,2,1,2024-06-26 21:30:00,3,June
+127,12.0,Wed,2024-06-26,21:30,Internacional,1.7,1–2,1.4,Atlético Mineiro,9978.0,Estádio Heriberto Hülse,,1,2,2024-06-26 21:30:00,3,June
+128,12.0,Wed,2024-06-26,21:30,Fortaleza,1.0,3–0,1.2,Palmeiras,28613.0,Estádio Castelão,,3,0,2024-06-26 21:30:00,3,June
+121,12.0,Wed,2024-06-26,20:00,Juventude,2.2,2–1,1.6,Flamengo,12675.0,Estádio Alfredo Jaconi,,2,1,2024-06-26 20:00:00,3,June
+122,12.0,Wed,2024-06-26,20:00,Atl Goianiense,1.7,1–1,0.4,Grêmio,7319.0,Estádio Antônio Accioly,,1,1,2024-06-26 20:00:00,2,June
+123,12.0,Wed,2024-06-26,20:00,Corinthians,1.1,1–1,1.7,Cuiabá,38475.0,Neo Química Arena,,1,1,2024-06-26 20:00:00,2,June
+124,12.0,Thu,2024-06-27,19:00,Fluminense,0.3,0–1,0.5,Vitória,24269.0,Estadio Jornalista Mário Filho,,0,1,2024-06-27 19:00:00,1,June
+125,12.0,Thu,2024-06-27,20:00,São Paulo,0.5,2–1,1.5,Criciúma,28008.0,Estádio do Morumbi,,2,1,2024-06-27 20:00:00,3,June
+135,13.0,Sun,2024-06-30,16:00,Grêmio,1.0,1–0,0.5,Fluminense,8549.0,Estádio Francisco Stédile,,1,0,2024-06-30 16:00:00,1,June
+136,13.0,Sun,2024-06-30,18:30,Flamengo,0.6,2–1,0.6,Cruzeiro,52768.0,Estadio Jornalista Mário Filho,,2,1,2024-06-30 18:30:00,3,June
+137,13.0,Sun,2024-06-30,18:30,Criciúma,1.0,1–1,1.2,Internacional,14946.0,Estádio Heriberto Hülse,,1,1,2024-06-30 18:30:00,2,June
+130,13.0,Sat,2024-06-29,17:30,Cuiabá,0.2,1–1,0.3,Red Bull Bragantino,5024.0,Arena Pantanal,,1,1,2024-06-29 17:30:00,2,June
+131,13.0,Sat,2024-06-29,18:30,Vasco da Gama,0.5,1–1,0.5,Botafogo (RJ),15593.0,Estádio Club de Regatas Vasco da Gama,,1,1,2024-06-29 18:30:00,2,June
+132,13.0,Sun,2024-06-30,11:00,Atlético Mineiro,0.7,1–1,1.2,Atl Goianiense,36099.0,Arena MRV,,1,1,2024-06-30 11:00:00,2,June
+133,13.0,Sun,2024-06-30,16:00,São Paulo,1.2,3–1,1.0,Bahia,28008.0,Estádio do Morumbi,,3,1,2024-06-30 16:00:00,4,June
+134,13.0,Sun,2024-06-30,16:00,Fortaleza,2.6,2–1,1.1,Juventude,33717.0,Estádio Castelão,,2,1,2024-06-30 16:00:00,3,June
+139,13.0,Mon,2024-07-01,20:00,Palmeiras,1.0,2–0,0.9,Corinthians,41175.0,Allianz Parque,,2,0,2024-07-01 20:00:00,2,July
+138,13.0,Sun,2024-06-30,18:30,Vitória,1.0,0–1,0.9,Ath Paranaense,20376.0,Estádio Manoel Barradas,,0,1,2024-06-30 18:30:00,1,June
+145,14.0,Thu,2024-07-04,19:00,Bahia,1.8,2–0,0.7,Juventude,40442.0,Itaipava Arena Fonte Nova,,2,0,2024-07-04 19:00:00,2,July
+146,14.0,Thu,2024-07-04,20:00,Corinthians,0.6,3–2,1.9,Vitória,,Neo Química Arena,,3,2,2024-07-04 20:00:00,5,July
+147,14.0,Thu,2024-07-04,20:00,Fluminense,0.3,1–1,0.7,Internacional,,Estadio Jornalista Mário Filho,,1,1,2024-07-04 20:00:00,2,July
+150,14.0,Wed,2024-07-03,21:30,Atlético Mineiro,2.4,2–4,2.1,Flamengo,,Arena MRV,,2,4,2024-07-03 21:30:00,6,July
+144,14.0,Thu,2024-07-04,19:00,Grêmio,2.2,2–2,2.3,Palmeiras,,Estádio Francisco Stédile,,2,2,2024-07-04 19:00:00,4,July
+143,14.0,Wed,2024-07-03,20:00,Criciúma,1.5,1–0,1.1,Cruzeiro,,Estádio Heriberto Hülse,,1,0,2024-07-03 20:00:00,1,July
+142,14.0,Wed,2024-07-03,20:00,Vasco da Gama,1.8,2–0,0.5,Fortaleza,,Estádio Club de Regatas Vasco da Gama,,2,0,2024-07-03 20:00:00,2,July
+141,14.0,Wed,2024-07-03,18:00,Cuiabá,1.6,1–2,0.8,Botafogo (RJ),,Arena Pantanal,,1,2,2024-07-03 18:00:00,3,July
+149,14.0,Wed,2024-07-03,21:30,Red Bull Bragantino,1.6,3–1,0.7,Atl Goianiense,,Estádio Nabi Abi Chedid,,3,1,2024-07-03 21:30:00,4,July
+148,14.0,Wed,2024-07-03,21:30,Ath Paranaense,0.4,1–2,1.6,São Paulo,,Ligga Arena,,1,2,2024-07-03 21:30:00,3,July
+152,15.0,Sat,2024-07-06,20:00,Flamengo,1.4,1–1,0.8,Cuiabá,,Estadio Jornalista Mário Filho,,1,1,2024-07-06 20:00:00,2,July
+155,15.0,Sun,2024-07-07,16:00,Juventude,1.7,3–0,0.8,Grêmio,,Estádio Alfredo Jaconi,,3,0,2024-07-07 16:00:00,3,July
+154,15.0,Sun,2024-07-07,16:00,Fortaleza,2.0,1–0,0.3,Fluminense,,Estádio Castelão,,1,0,2024-07-07 16:00:00,1,July
+153,15.0,Sat,2024-07-06,20:00,São Paulo,1.9,2–0,0.9,Red Bull Bragantino,,Estádio do Morumbi,,2,0,2024-07-06 20:00:00,2,July
+157,15.0,Sun,2024-07-07,18:00,Internacional,1.3,1–2,0.7,Vasco da Gama,,Estádio José Pinheiro Borba,,1,2,2024-07-07 18:00:00,3,July
+158,15.0,Sun,2024-07-07,18:30,Atl Goianiense,0.7,1–2,1.0,Ath Paranaense,,Estádio Antônio Accioly,,1,2,2024-07-07 18:30:00,3,July
+161,15.0,Sun,2024-07-07,20:30,Botafogo (RJ),1.1,3–0,0.2,Atlético Mineiro,,Estádio Nilton Santos,,3,0,2024-07-07 20:30:00,3,July
+156,15.0,Sun,2024-07-07,16:00,Cruzeiro,1.5,3–0,1.1,Corinthians,,Estádio Governador Magalhães Pinto,,3,0,2024-07-07 16:00:00,3,July
+159,15.0,Sun,2024-07-07,18:30,Palmeiras,0.9,2–0,1.9,Bahia,,Allianz Parque,,2,0,2024-07-07 18:30:00,2,July
+160,15.0,Sun,2024-07-07,18:30,Vitória,1.6,2–1,1.0,Criciúma,,Estádio Manoel Barradas,,2,1,2024-07-07 18:30:00,3,July
+273,16.0,Thu,2024-09-05,19:00,Cuiabá,0.7,0–0,0.6,Juventude,,Arena Pantanal,Felipe Fernandes de Lima,0,0,2024-09-05 19:00:00,0,September
+170,16.0,Thu,2024-07-11,21:30,Atlético Mineiro,0.6,2–1,1.4,São Paulo,,Arena MRV,,2,1,2024-07-11 21:30:00,3,July
+163,16.0,Wed,2024-07-10,18:30,Grêmio,1.0,0–2,1.0,Cruzeiro,,Estádio Francisco Stédile,,0,2,2024-07-10 18:30:00,2,July
+164,16.0,Wed,2024-07-10,19:00,Ath Paranaense,1.9,1–3,1.3,Bahia,,Ligga Arena,,1,3,2024-07-10 19:00:00,4,July
+301,16.0,Wed,2024-09-25,19:00,Red Bull Bragantino,1.1,2–2,2.2,Internacional,,Estádio Nabi Abi Chedid,Rodrigo José Pereira de Lima,2,2,2024-09-25 19:00:00,4,September
+165,16.0,Wed,2024-07-10,19:00,Vasco da Gama,0.9,2–0,0.4,Corinthians,,Estádio Club de Regatas Vasco da Gama,,2,0,2024-07-10 19:00:00,2,July
+166,16.0,Thu,2024-07-11,19:30,Palmeiras,3.3,3–1,0.5,Atl Goianiense,,Allianz Parque,,3,1,2024-07-11 19:30:00,4,July
+167,16.0,Thu,2024-07-11,20:00,Flamengo,2.0,1–2,0.4,Fortaleza,,Estadio Jornalista Mário Filho,,1,2,2024-07-11 20:00:00,3,July
+168,16.0,Thu,2024-07-11,20:00,Criciúma,1.1,1–1,2.1,Fluminense,,Estádio Heriberto Hülse,,1,1,2024-07-11 20:00:00,2,July
+169,16.0,Thu,2024-07-11,21:30,Vitória,1.0,0–1,2.1,Botafogo (RJ),,Estádio Manoel Barradas,,0,1,2024-07-11 21:30:00,1,July
+172,17.0,Sat,2024-07-13,16:00,Cruzeiro,1.4,2–1,0.8,Red Bull Bragantino,,Estádio Raimundo Sampaio,,2,1,2024-07-13 16:00:00,3,July
+173,17.0,Sat,2024-07-13,16:00,Bahia,0.9,1–2,1.2,Cuiabá,,Itaipava Arena Fonte Nova,,1,2,2024-07-13 16:00:00,3,July
+174,17.0,Tue,2024-07-16,19:00,Juventude,0.9,1–1,1.8,Atlético Mineiro,,Estádio Nacional de Brasília,,1,1,2024-07-16 19:00:00,2,July
+175,17.0,Wed,2024-07-17,19:00,Atl Goianiense,0.9,0–1,1.2,Vasco da Gama,,Estádio Antônio Accioly,,0,1,2024-07-17 19:00:00,1,July
+176,17.0,Wed,2024-07-17,20:00,São Paulo,0.9,1–0,1.4,Grêmio,,Estádio do Morumbi,,1,0,2024-07-17 20:00:00,1,July
+177,17.0,Tue,2024-07-16,21:00,Corinthians,0.7,2–1,1.2,Criciúma,43241.0,Neo Química Arena,,2,1,2024-07-16 21:00:00,3,July
+178,17.0,Wed,2024-07-17,21:30,Fortaleza,2.0,3–1,1.3,Vitória,,Estádio Castelão,,3,1,2024-07-17 21:30:00,4,July
+179,17.0,Wed,2024-07-17,21:30,Botafogo (RJ),1.8,1–0,1.2,Palmeiras,,Estádio Nilton Santos,,1,0,2024-07-17 21:30:00,1,July
+338,17.0,Tue,2024-10-22,19:30,Fluminense,1.4,1–0,0.5,Ath Paranaense,,Estadio Jornalista Mário Filho,Braulio Machado,1,0,2024-10-22 19:30:00,1,October
+353,17.0,Wed,2024-10-30,19:00,Internacional,1.5,1–1,1.7,Flamengo,,Estádio José Pinheiro Borba,Davi de Oliveira Lacerda,1,1,2024-10-30 19:00:00,2,October
+188,18.0,Sun,2024-07-21,18:30,Juventude,0.8,0–0,0.5,São Paulo,,Estádio Nacional de Brasília,,0,0,2024-07-21 18:30:00,0,July
+190,18.0,Sat,2024-07-20,21:00,Palmeiras,1.3,2–0,0.6,Cruzeiro,,Allianz Parque,,2,0,2024-07-20 21:00:00,2,July
+186,18.0,Sun,2024-07-21,18:30,Red Bull Bragantino,0.8,1–0,1.4,Ath Paranaense,4423.0,Estádio Nabi Abi Chedid,,1,0,2024-07-21 18:30:00,1,July
+185,18.0,Sun,2024-07-21,16:00,Atlético Mineiro,2.2,2–0,0.6,Vasco da Gama,42353.0,Arena MRV,,2,0,2024-07-21 16:00:00,2,July
+189,18.0,Sun,2024-07-21,19:00,Cuiabá,0.6,0–1,1.3,Fluminense,,Arena Pantanal,,0,1,2024-07-21 19:00:00,1,July
+182,18.0,Sat,2024-07-20,18:30,Botafogo (RJ),0.5,1–0,0.7,Internacional,,Estádio Nilton Santos,,1,0,2024-07-20 18:30:00,1,July
+184,18.0,Sun,2024-07-21,16:00,Bahia,1.3,0–1,0.3,Corinthians,48346.0,Itaipava Arena Fonte Nova,,0,1,2024-07-21 16:00:00,1,July
+181,18.0,Sat,2024-07-20,16:00,Flamengo,2.4,2–1,1.2,Criciúma,,Estádio Nacional de Brasília,,2,1,2024-07-20 16:00:00,3,July
+183,18.0,Sun,2024-07-21,11:00,Grêmio,1.4,2–0,0.2,Vitória,,Estádio Francisco Stédile,,2,0,2024-07-21 11:00:00,2,July
+187,18.0,Sun,2024-07-21,18:30,Fortaleza,1.6,3–1,0.7,Atl Goianiense,,Estádio Castelão,,3,1,2024-07-21 18:30:00,4,July
+197,19.0,Thu,2024-07-25,20:00,Corinthians,1.6,2–2,0.9,Grêmio,45183.0,Neo Química Arena,,2,2,2024-07-25 20:00:00,4,July
+198,19.0,Wed,2024-07-24,21:30,Atl Goianiense,1.1,1–1,0.8,Bahia,,Estádio Antônio Accioly,,1,1,2024-07-24 21:30:00,2,July
+195,19.0,Wed,2024-07-24,19:30,São Paulo,2.0,2–2,1.7,Botafogo (RJ),,Estádio do Morumbi,,2,2,2024-07-24 19:30:00,4,July
+199,19.0,Wed,2024-07-24,21:30,Fluminense,1.0,1–0,0.1,Palmeiras,,Estadio Jornalista Mário Filho,,1,0,2024-07-24 21:30:00,1,July
+196,19.0,Wed,2024-07-24,20:00,Vitória,1.4,1–2,1.0,Flamengo,,Estádio Manoel Barradas,,1,2,2024-07-24 20:00:00,3,July
+260,19.0,Wed,2024-08-28,19:30,Criciúma,0.9,1–0,1.1,Red Bull Bragantino,,Estádio Heriberto Hülse,,1,0,2024-08-28 19:30:00,1,August
+340,19.0,Thu,2024-10-24,19:00,Vasco da Gama,0.8,1–0,0.6,Cuiabá,,Estádio Club de Regatas Vasco da Gama,Wilton Sampaio,1,0,2024-10-24 19:00:00,1,October
+194,19.0,Wed,2024-07-24,19:00,Cruzeiro,2.4,2–0,0.9,Juventude,,Estádio Governador Magalhães Pinto,,2,0,2024-07-24 19:00:00,2,July
+377,19.0,Sat,2024-11-16,18:30,Ath Paranaense,1.5,1–0,0.4,Atlético Mineiro,,Ligga Arena,Matheus Delgado Candançan,1,0,2024-11-16 18:30:00,1,November
+275,19.0,Wed,2024-09-11,19:30,Internacional,1.7,2–1,1.1,Fortaleza,,Estádio José Pinheiro Borba,Gustavo Ervino Bauermann,2,1,2024-09-11 19:30:00,3,September
+202,20.0,Sat,2024-07-27,19:00,Juventude,0.5,1–2,1.7,Criciúma,,Estádio Alfredo Jaconi,,1,2,2024-07-27 19:00:00,3,July
+201,20.0,Sat,2024-07-27,19:00,Palmeiras,0.8,0–2,0.6,Vitória,,Allianz Parque,,0,2,2024-07-27 19:00:00,2,July
+207,20.0,Sun,2024-07-28,19:00,Atlético Mineiro,1.9,2–1,1.1,Corinthians,,Arena MRV,,2,1,2024-07-28 19:00:00,3,July
+208,20.0,Sun,2024-07-28,19:00,Grêmio,1.7,1–0,0.9,Vasco da Gama,,Arena Condá,,1,0,2024-07-28 19:00:00,1,July
+210,20.0,Sat,2024-07-27,21:30,Fortaleza,1.3,1–0,0.6,São Paulo,41322.0,Estádio Castelão,,1,0,2024-07-27 21:30:00,1,July
+209,20.0,Sat,2024-07-27,21:30,Botafogo (RJ),2.2,0–3,0.6,Cruzeiro,,Estádio Nilton Santos,,0,3,2024-07-27 21:30:00,3,July
+205,20.0,Sun,2024-07-28,16:00,Flamengo,1.3,2–0,0.4,Atl Goianiense,61883.0,Estadio Jornalista Mário Filho,,2,0,2024-07-28 16:00:00,2,July
+206,20.0,Sun,2024-07-28,18:00,Cuiabá,1.5,1–2,2.1,Ath Paranaense,4452.0,Arena Pantanal,,1,2,2024-07-28 18:00:00,3,July
+204,20.0,Sun,2024-07-28,11:00,Red Bull Bragantino,0.4,0–1,0.8,Fluminense,7304.0,Estádio Nabi Abi Chedid,,0,1,2024-07-28 11:00:00,1,July
+203,20.0,Sat,2024-07-27,20:00,Bahia,0.9,1–1,1.5,Internacional,,Itaipava Arena Fonte Nova,,1,1,2024-07-27 20:00:00,2,July
+214,21.0,Sat,2024-08-03,20:00,Atl Goianiense,1.2,1–4,3.1,Botafogo (RJ),,Estádio Antônio Accioly,,1,4,2024-08-03 20:00:00,5,August
+215,21.0,Sat,2024-08-03,20:00,Criciúma,1.2,2–1,1.4,Atlético Mineiro,15642.0,Estádio Heriberto Hülse,,2,1,2024-08-03 20:00:00,3,August
+217,21.0,Sun,2024-08-04,16:00,Corinthians,2.4,1–1,0.7,Juventude,,Neo Química Arena,,1,1,2024-08-04 16:00:00,2,August
+216,21.0,Sun,2024-08-04,16:00,Fluminense,1.1,1–0,1.7,Bahia,,Estadio Jornalista Mário Filho,,1,0,2024-08-04 16:00:00,1,August
+221,21.0,Mon,2024-08-05,21:00,Cruzeiro,0.8,1–2,1.1,Fortaleza,,Estádio Kleber José de Andrade,,1,2,2024-08-05 21:00:00,3,August
+220,21.0,Sat,2024-08-03,21:30,São Paulo,1.4,1–0,0.3,Flamengo,,Estádio do Morumbi,,1,0,2024-08-03 21:30:00,1,August
+219,21.0,Sun,2024-08-04,17:00,Internacional,1.5,1–1,1.4,Palmeiras,,Estádio José Pinheiro Borba,,1,1,2024-08-04 17:00:00,2,August
+212,21.0,Sat,2024-08-03,16:00,Vitória,1.6,1–0,0.8,Cuiabá,,Estádio Manoel Barradas,,1,0,2024-08-03 16:00:00,1,August
+213,21.0,Sat,2024-08-03,19:00,Vasco da Gama,0.8,2–2,1.3,Red Bull Bragantino,,Estádio Club de Regatas Vasco da Gama,,2,2,2024-08-03 19:00:00,4,August
+218,21.0,Sun,2024-08-04,16:00,Ath Paranaense,0.9,0–2,2.2,Grêmio,,Ligga Arena,,0,2,2024-08-04 16:00:00,2,August
+226,22.0,Sun,2024-08-11,16:00,São Paulo,2.0,1–0,0.7,Atl Goianiense,46600.0,Estádio do Morumbi,,1,0,2024-08-11 16:00:00,1,August
+231,22.0,Sat,2024-08-10,21:30,Corinthians,1.4,1–1,1.2,Red Bull Bragantino,,Neo Química Arena,,1,1,2024-08-10 21:30:00,2,August
+225,22.0,Sun,2024-08-11,11:00,Juventude,1.7,3–2,1.8,Botafogo (RJ),,Estádio Alfredo Jaconi,,3,2,2024-08-11 11:00:00,5,August
+232,22.0,Sat,2024-08-10,21:30,Vasco da Gama,1.2,2–0,0.8,Fluminense,,Estádio Nilton Santos,,2,0,2024-08-10 21:30:00,2,August
+230,22.0,Sat,2024-08-10,21:30,Cruzeiro,0.3,0–0,0.6,Atlético Mineiro,,Estádio Governador Magalhães Pinto,,0,0,2024-08-10 21:30:00,0,August
+227,22.0,Sun,2024-08-11,16:00,Flamengo,1.0,1–1,1.3,Palmeiras,,Estadio Jornalista Mário Filho,,1,1,2024-08-11 16:00:00,2,August
+229,22.0,Sun,2024-08-11,19:00,Internacional,2.5,2–2,1.3,Ath Paranaense,,Estádio José Pinheiro Borba,,2,2,2024-08-11 19:00:00,4,August
+228,22.0,Sun,2024-08-11,16:00,Bahia,0.6,2–0,1.0,Vitória,,Itaipava Arena Fonte Nova,,2,0,2024-08-11 16:00:00,2,August
+223,22.0,Sat,2024-08-10,16:00,Fortaleza,1.9,1–0,0.8,Criciúma,,Estádio Castelão,,1,0,2024-08-10 16:00:00,1,August
+224,22.0,Sat,2024-08-10,18:00,Cuiabá,0.5,1–3,1.4,Grêmio,,Arena Pantanal,,1,3,2024-08-10 18:00:00,4,August
+242,23.0,Sun,2024-08-18,18:30,Ath Paranaense,1.5,1–2,1.1,Juventude,,Ligga Arena,,1,2,2024-08-18 18:30:00,3,August
+236,23.0,Sat,2024-08-17,16:00,Atlético Mineiro,1.8,1–1,1.3,Cuiabá,,Arena MRV,,1,1,2024-08-17 16:00:00,2,August
+237,23.0,Sat,2024-08-17,16:00,Grêmio,1.2,0–2,1.7,Bahia,,Estádio Alfredo Jaconi,,0,2,2024-08-17 16:00:00,2,August
+238,23.0,Sat,2024-08-17,18:30,Red Bull Bragantino,2.2,1–2,1.9,Fortaleza,,Estádio Nabi Abi Chedid,,1,2,2024-08-17 18:30:00,3,August
+245,23.0,Mon,2024-08-19,20:00,Vitória,1.2,2–2,1.2,Cruzeiro,,Estádio Manoel Barradas,,2,2,2024-08-19 20:00:00,4,August
+239,23.0,Sun,2024-08-18,16:00,Criciúma,1.0,2–2,1.3,Vasco da Gama,,Estádio Heriberto Hülse,,2,2,2024-08-18 16:00:00,4,August
+241,23.0,Sun,2024-08-18,16:00,Atl Goianiense,0.7,1–0,1.9,Internacional,,Estádio Antônio Accioly,,1,0,2024-08-18 16:00:00,1,August
+240,23.0,Sun,2024-08-18,16:00,Palmeiras,2.1,2–1,0.6,São Paulo,,Allianz Parque,,2,1,2024-08-18 16:00:00,3,August
+243,23.0,Sun,2024-08-18,18:30,Botafogo (RJ),3.3,4–1,0.8,Flamengo,,Estádio Nilton Santos,,4,1,2024-08-18 18:30:00,5,August
+244,23.0,Sat,2024-08-17,21:00,Fluminense,0.6,0–0,1.1,Corinthians,,Estadio Jornalista Mário Filho,,0,0,2024-08-17 21:00:00,0,August
+247,24.0,Sat,2024-08-24,16:00,Atl Goianiense,2.5,2–1,0.6,Juventude,,Estádio Antônio Accioly,,2,1,2024-08-24 16:00:00,3,August
+251,24.0,Sun,2024-08-25,16:00,Fortaleza,1.0,1–0,0.6,Corinthians,,Estádio Castelão,,1,0,2024-08-25 16:00:00,1,August
+253,24.0,Sun,2024-08-25,19:00,Internacional,2.6,1–0,0.2,Cruzeiro,,Estádio José Pinheiro Borba,,1,0,2024-08-25 19:00:00,1,August
+254,24.0,Sun,2024-08-25,20:00,Flamengo,1.3,2–1,1.1,Red Bull Bragantino,,Estadio Jornalista Mário Filho,,2,1,2024-08-25 20:00:00,3,August
+255,24.0,Sat,2024-08-24,21:00,Atlético Mineiro,0.5,0–2,0.7,Fluminense,,Estádio Governador Magalhães Pinto,,0,2,2024-08-24 21:00:00,2,August
+252,24.0,Sun,2024-08-25,18:30,São Paulo,0.6,2–1,1.2,Vitória,,Estádio do Morumbi,,2,1,2024-08-25 18:30:00,3,August
+256,24.0,Mon,2024-08-26,21:00,Vasco da Gama,0.7,2–1,0.7,Ath Paranaense,16433.0,Estádio Club de Regatas Vasco da Gama,,2,1,2024-08-26 21:00:00,3,August
+249,24.0,Sun,2024-08-25,16:00,Criciúma,0.9,0–1,1.3,Grêmio,,Estádio Heriberto Hülse,,0,1,2024-08-25 16:00:00,1,August
+250,24.0,Sun,2024-08-25,16:00,Bahia,0.9,0–0,0.8,Botafogo (RJ),,Itaipava Arena Fonte Nova,,0,0,2024-08-25 16:00:00,0,August
+248,24.0,Sat,2024-08-24,18:30,Palmeiras,2.6,5–0,0.8,Cuiabá,,Estádio Brinco de Ouro da Princesa,,5,0,2024-08-24 18:30:00,5,August
+268,25.0,Sun,2024-09-01,18:30,Fluminense,0.5,2–0,0.8,São Paulo,,Estadio Jornalista Mário Filho,Paulo Cesar Zanovelli da Silva,2,0,2024-09-01 18:30:00,2,September
+263,25.0,Sun,2024-09-01,11:00,Cruzeiro,1.7,3–1,1.4,Atl Goianiense,,Estádio Governador Magalhães Pinto,Gustavo Ervino Bauermann,3,1,2024-09-01 11:00:00,4,September
+265,25.0,Sun,2024-09-01,16:00,Corinthians,1.6,2–1,1.3,Flamengo,,Neo Química Arena,Ramon Abatti,2,1,2024-09-01 16:00:00,3,September
+262,25.0,Sat,2024-08-31,17:30,Cuiabá,1.2,2–1,0.6,Criciúma,,Arena Pantanal,Rodrigo José Pereira de Lima,2,1,2024-08-31 17:30:00,3,August
+264,25.0,Sun,2024-09-01,11:00,Grêmio,2.0,2–3,2.8,Atlético Mineiro,,Arena do Grêmio,Raphael Claus,2,3,2024-09-01 11:00:00,5,September
+271,25.0,Sat,2024-08-31,21:00,Botafogo (RJ),1.8,2–0,0.4,Fortaleza,,Estádio Nilton Santos,Flavio Rodrigues de Souza,2,0,2024-08-31 21:00:00,2,August
+269,25.0,Sun,2024-09-01,18:30,Vitória,1.4,0–1,0.4,Vasco da Gama,,Estádio Manoel Barradas,Luiz Flávio de Oliveira,0,1,2024-09-01 18:30:00,1,September
+270,25.0,Sun,2024-09-01,18:30,Red Bull Bragantino,1.0,2–1,0.8,Bahia,,Estádio Nabi Abi Chedid,Davi de Oliveira Lacerda,2,1,2024-09-01 18:30:00,3,September
+267,25.0,Sun,2024-09-01,18:30,Ath Paranaense,0.9,0–2,3.0,Palmeiras,,Ligga Arena,Braulio Machado,0,2,2024-09-01 18:30:00,2,September
+266,25.0,Sun,2024-09-01,18:30,Juventude,0.6,1–3,2.9,Internacional,,Estádio Alfredo Jaconi,Marcelo de Lima Henrique,1,3,2024-09-01 18:30:00,4,September
+281,26.0,Sun,2024-09-15,16:00,Palmeiras,1.9,5–0,0.7,Criciúma,,Allianz Parque,Alex Gomes Stefano,5,0,2024-09-15 16:00:00,5,September
+280,26.0,Sun,2024-09-15,16:00,Juventude,0.6,2–1,0.7,Fluminense,,Estádio Alfredo Jaconi,Flavio Rodrigues de Souza,2,1,2024-09-15 16:00:00,3,September
+279,26.0,Sun,2024-09-15,16:00,Red Bull Bragantino,1.7,2–2,0.8,Grêmio,,Estádio Nabi Abi Chedid,Bruno Arleu,2,2,2024-09-15 16:00:00,4,September
+284,26.0,Sun,2024-09-15,18:30,Bahia,1.1,3–0,0.6,Atlético Mineiro,,Itaipava Arena Fonte Nova,Rafael Rodrigo Klein,3,0,2024-09-15 18:30:00,3,September
+277,26.0,Sat,2024-09-14,16:00,Atl Goianiense,0.7,0–2,0.8,Vitória,,Estádio Antônio Accioly,Edina Alves,0,2,2024-09-14 16:00:00,2,September
+278,26.0,Sat,2024-09-14,18:30,Ath Paranaense,2.9,1–1,1.1,Fortaleza,,Ligga Arena,Davi de Oliveira Lacerda,1,1,2024-09-14 18:30:00,2,September
+282,26.0,Sun,2024-09-15,18:30,Flamengo,2.1,1–1,1.0,Vasco da Gama,,Estadio Jornalista Mário Filho,Raphael Claus,1,1,2024-09-15 18:30:00,2,September
+283,26.0,Sun,2024-09-15,18:30,Cruzeiro,0.6,0–1,1.1,São Paulo,,Estádio Governador Magalhães Pinto,Wilton Pereira Sampaio,0,1,2024-09-15 18:30:00,1,September
+285,26.0,Sat,2024-09-14,21:00,Botafogo (RJ),2.2,2–1,2.0,Corinthians,,Estádio Nilton Santos,Anderson Daronco,2,1,2024-09-14 21:00:00,3,September
+286,26.0,Mon,2024-09-16,20:00,Internacional,3.3,3–0,0.3,Cuiabá,,Estádio José Pinheiro Borba,Braulio Machado,3,0,2024-09-16 20:00:00,3,September
+297,27.0,Sat,2024-09-21,21:00,Fortaleza,1.5,4–1,0.4,Bahia,,Estádio Castelão,Raphael Claus,4,1,2024-09-21 21:00:00,5,September
+291,27.0,Sun,2024-09-22,16:00,Vasco da Gama,0.3,0–1,1.4,Palmeiras,,Estádio Nacional de Brasília,Rafael Rodrigo Klein,0,1,2024-09-22 16:00:00,1,September
+293,27.0,Sun,2024-09-22,17:30,Cuiabá,0.4,0–0,0.9,Cruzeiro,,Arena Pantanal,Flavio Rodrigues de Souza,0,0,2024-09-22 17:30:00,0,September
+294,27.0,Sun,2024-09-22,18:30,Grêmio,1.6,3–2,1.4,Flamengo,,Arena do Grêmio,Matheus Delgado Candançan,3,2,2024-09-22 18:30:00,5,September
+290,27.0,Sat,2024-09-21,18:30,Fluminense,0.4,0–1,1.6,Botafogo (RJ),,Estadio Jornalista Mário Filho,Wilton Sampaio,0,1,2024-09-21 18:30:00,1,September
+296,27.0,Sun,2024-09-22,20:00,Criciúma,1.4,0–0,0.6,Ath Paranaense,,Estádio Heriberto Hülse,Anderson Daronco,0,0,2024-09-22 20:00:00,0,September
+295,27.0,Sun,2024-09-22,18:30,São Paulo,0.8,1–3,1.0,Internacional,,Estádio do Morumbi,Ramon Abatti,1,3,2024-09-22 18:30:00,4,September
+292,27.0,Sun,2024-09-22,16:00,Atlético Mineiro,2.3,3–0,0.6,Red Bull Bragantino,,Arena MRV,Lucas Paulo Torezin,3,0,2024-09-22 16:00:00,3,September
+288,27.0,Sat,2024-09-21,16:00,Vitória,1.1,1–0,0.9,Juventude,,Estádio Manoel Barradas,Braulio Machado,1,0,2024-09-21 16:00:00,1,September
+289,27.0,Sat,2024-09-21,16:00,Corinthians,2.5,3–0,0.7,Atl Goianiense,46001.0,Neo Química Arena,Bruno Arleu,3,0,2024-09-21 16:00:00,3,September
+312,28.0,Sat,2024-09-28,21:00,Botafogo (RJ),1.0,0–0,0.7,Grêmio,,Estádio Nacional de Brasília,Maguielson Lima Barbosa,0,0,2024-09-28 21:00:00,0,September
+311,28.0,Sun,2024-09-29,20:00,Flamengo,0.7,1–0,0.4,Ath Paranaense,,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda,1,0,2024-09-29 20:00:00,1,September
+303,28.0,Sat,2024-09-28,18:30,Palmeiras,2.6,2–1,0.3,Atlético Mineiro,,Estádio Brinco de Ouro da Princesa,Bruno Arleu,2,1,2024-09-28 18:30:00,3,September
+310,28.0,Sun,2024-09-29,18:30,Bahia,2.6,1–0,0.1,Criciúma,,Itaipava Arena Fonte Nova,Edina Alves,1,0,2024-09-29 18:30:00,1,September
+309,28.0,Sun,2024-09-29,18:30,Internacional,2.4,3–1,0.7,Vitória,,Estádio José Pinheiro Borba,Wagner do Nascimento Magalhães,3,1,2024-09-29 18:30:00,4,September
+308,28.0,Sun,2024-09-29,18:30,Cruzeiro,0.8,1–1,1.1,Vasco da Gama,,Estádio Governador Magalhães Pinto,Matheus Delgado Candançan,1,1,2024-09-29 18:30:00,2,September
+307,28.0,Sun,2024-09-29,16:00,São Paulo,2.9,3–1,0.8,Corinthians,,Estádio Nacional de Brasília,Rafael Rodrigo Klein,3,1,2024-09-29 16:00:00,4,September
+306,28.0,Sun,2024-09-29,16:00,Atl Goianiense,1.4,1–0,1.5,Fluminense,,Estádio Antônio Accioly,Ramon Abatti,1,0,2024-09-29 16:00:00,1,September
+305,28.0,Sun,2024-09-29,16:00,Fortaleza,0.8,1–0,0.1,Cuiabá,,Estádio Castelão,Denis da Silva Ribeiro Serafim,1,0,2024-09-29 16:00:00,1,September
+304,28.0,Sun,2024-09-29,11:00,Juventude,1.0,1–1,1.2,Red Bull Bragantino,,Estádio Alfredo Jaconi,Alex Gomes Stefano,1,1,2024-09-29 11:00:00,2,September
+323,29.0,Sat,2024-10-05,21:00,Vasco da Gama,1.2,1–1,1.6,Juventude,,Estádio Club de Regatas Vasco da Gama,Caio Max Augusto Vieira,1,1,2024-10-05 21:00:00,2,October
+316,29.0,Sat,2024-10-05,16:30,Red Bull Bragantino,0.8,0–0,1.4,Palmeiras,,Estádio Nabi Abi Chedid,Braulio Machado,0,0,2024-10-05 16:30:00,0,October
+315,29.0,Thu,2024-10-03,21:30,Fluminense,1.6,1–0,1.4,Cruzeiro,,Estadio Jornalista Mário Filho,Gustavo Ervino Bauermann,1,0,2024-10-03 21:30:00,1,October
+321,29.0,Sat,2024-10-05,19:00,Bahia,0.8,0–2,2.5,Flamengo,,Itaipava Arena Fonte Nova,Rafael Rodrigo Klein,0,2,2024-10-05 19:00:00,2,October
+322,29.0,Fri,2024-10-04,21:30,Grêmio,1.6,3–1,0.3,Fortaleza,,Arena do Grêmio,Davi de Oliveira Lacerda,3,1,2024-10-04 21:30:00,4,October
+320,29.0,Sat,2024-10-05,19:00,Corinthians,1.9,2–2,0.6,Internacional,,Neo Química Arena,Lucas Paulo Torezin,2,2,2024-10-05 19:00:00,4,October
+319,29.0,Sat,2024-10-05,18:00,Cuiabá,0.8,2–0,0.5,São Paulo,,Arena Pantanal,Anderson Daronco,2,0,2024-10-05 18:00:00,2,October
+314,29.0,Thu,2024-10-03,19:00,Criciúma,1.3,2–0,0.4,Atl Goianiense,,Estádio Heriberto Hülse,João Vitor Gobi,2,0,2024-10-03 19:00:00,2,October
+317,29.0,Sat,2024-10-05,16:30,Ath Paranaense,1.6,0–1,1.2,Botafogo (RJ),,Ligga Arena,Flavio Rodrigues de Souza,0,1,2024-10-05 16:30:00,1,October
+318,29.0,Sat,2024-10-05,16:30,Atlético Mineiro,1.0,2–2,1.1,Vitória,,Arena MRV,Matheus Delgado Candançan,2,2,2024-10-05 16:30:00,4,October
+331,30.0,Fri,2024-10-18,19:00,Atl Goianiense,1.2,0–0,0.4,Cuiabá,,Estádio Antônio Accioly,Braulio Machado,0,0,2024-10-18 19:00:00,0,October
+334,30.0,Sat,2024-10-19,16:00,Internacional,1.8,1–0,0.5,Grêmio,,Estádio José Pinheiro Borba,Bruno Arleu,1,0,2024-10-19 16:00:00,1,October
+336,30.0,Sun,2024-10-20,20:00,Juventude,2.1,3–5,2.6,Palmeiras,,Estádio Alfredo Jaconi,Alex Gomes Stefano,3,5,2024-10-20 20:00:00,8,October
+328,30.0,Thu,2024-10-17,20:00,Corinthians,1.8,5–2,1.6,Ath Paranaense,,Neo Química Arena,Wilton Sampaio,5,2,2024-10-17 20:00:00,7,October
+329,30.0,Wed,2024-10-16,21:45,São Paulo,1.3,3–0,1.0,Vasco da Gama,,Estádio Brinco de Ouro da Princesa,Davi de Oliveira Lacerda,3,0,2024-10-16 21:45:00,3,October
+330,30.0,Wed,2024-10-16,21:45,Fortaleza,0.7,1–1,1.4,Atlético Mineiro,,Estádio Castelão,Rafael Rodrigo Klein,1,1,2024-10-16 21:45:00,2,October
+335,30.0,Fri,2024-10-18,21:30,Cruzeiro,1.2,1–1,1.3,Bahia,,Estádio Governador Magalhães Pinto,Flavio Rodrigues de Souza,1,1,2024-10-18 21:30:00,2,October
+333,30.0,Sat,2024-10-19,16:00,Vitória,1.3,1–0,0.7,Red Bull Bragantino,,Estádio Manoel Barradas,Denis da Silva Ribeiro Serafim,1,0,2024-10-19 16:00:00,1,October
+327,30.0,Thu,2024-10-17,20:00,Flamengo,1.5,0–2,1.7,Fluminense,,Estadio Jornalista Mário Filho,Raphael Claus,0,2,2024-10-17 20:00:00,2,October
+332,30.0,Fri,2024-10-18,20:00,Botafogo (RJ),2.5,1–1,0.3,Criciúma,,Estadio Jornalista Mário Filho,Matheus Delgado Candançan,1,1,2024-10-18 20:00:00,2,October
+351,31.0,Mon,2024-10-28,21:00,Vasco da Gama,1.9,3–2,2.0,Bahia,,Estádio Club de Regatas Vasco da Gama,Raphael Claus,3,2,2024-10-28 21:00:00,5,October
+350,31.0,Mon,2024-10-28,18:00,Cuiabá,0.3,0–1,1.3,Corinthians,,Arena Pantanal,Bruno Arleu,0,1,2024-10-28 18:00:00,1,October
+349,31.0,Sat,2024-10-26,22:00,Criciúma,0.8,1–1,0.8,São Paulo,17422.0,Estádio Heriberto Hülse,Rafael Rodrigo Klein,1,1,2024-10-26 22:00:00,2,October
+344,31.0,Sat,2024-10-26,16:30,Grêmio,2.0,3–1,1.5,Atl Goianiense,,Arena do Grêmio,Edina Alves,3,1,2024-10-26 16:30:00,4,October
+347,31.0,Sat,2024-10-26,19:00,Atlético Mineiro,1.0,1–3,1.6,Internacional,,Arena MRV,Marcelo de Lima Henrique,1,3,2024-10-26 19:00:00,4,October
+346,31.0,Sat,2024-10-26,18:30,Ath Paranaense,1.4,3–0,0.1,Cruzeiro,,Ligga Arena,Rodrigo José Pereira de Lima,3,0,2024-10-26 18:30:00,3,October
+345,31.0,Sat,2024-10-26,16:30,Palmeiras,3.7,2–2,0.9,Fortaleza,,Allianz Parque,Ramon Abatti,2,2,2024-10-26 16:30:00,4,October
+343,31.0,Sat,2024-10-26,16:30,Flamengo,2.4,4–2,0.6,Juventude,,Estadio Jornalista Mário Filho,Braulio Machado,4,2,2024-10-26 16:30:00,6,October
+342,31.0,Sat,2024-10-26,16:30,Vitória,1.4,2–1,0.6,Fluminense,,Estádio Manoel Barradas,Flavio Rodrigues de Souza,2,1,2024-10-26 16:30:00,3,October
+348,31.0,Sat,2024-10-26,19:00,Red Bull Bragantino,0.2,0–1,1.3,Botafogo (RJ),,Estádio Nabi Abi Chedid,Anderson Daronco,0,1,2024-10-26 19:00:00,1,October
+357,32.0,Sat,2024-11-02,18:30,Ath Paranaense,1.3,1–2,1.1,Vitória,,Ligga Arena,Luiz Flávio de Oliveira,1,2,2024-11-02 18:30:00,3,November
+356,32.0,Sat,2024-11-02,18:30,Juventude,1.2,0–3,0.9,Fortaleza,,Estádio Alfredo Jaconi,Raphael Claus,0,3,2024-11-02 18:30:00,3,November
+355,32.0,Sat,2024-11-02,16:00,Red Bull Bragantino,1.0,0–0,0.4,Cuiabá,,Estádio Nabi Abi Chedid,Marcelo de Lima Henrique,0,0,2024-11-02 16:00:00,0,November
+363,32.0,Wed,2024-11-06,21:00,Atl Goianiense,1.0,1–0,0.7,Atlético Mineiro,,Estádio Antônio Accioly,Jonathan Benkenstein Pinheiro,1,0,2024-11-06 21:00:00,1,November
+364,32.0,Wed,2024-11-06,21:00,Cruzeiro,0.7,0–1,0.4,Flamengo,,Estádio Raimundo Sampaio,Gustavo Ervino Bauermann,0,1,2024-11-06 21:00:00,1,November
+362,32.0,Tue,2024-11-05,21:30,Botafogo (RJ),2.6,3–0,0.6,Vasco da Gama,,Estádio Nilton Santos,Bruno Arleu,3,0,2024-11-05 21:30:00,3,November
+361,32.0,Tue,2024-11-05,21:30,Internacional,1.5,2–0,0.1,Criciúma,,Estádio José Pinheiro Borba,Felipe Fernandes de Lima,2,0,2024-11-05 21:30:00,2,November
+359,32.0,Mon,2024-11-04,20:00,Corinthians,0.8,2–0,1.0,Palmeiras,,Neo Química Arena,Wilton Sampaio,2,0,2024-11-04 20:00:00,2,November
+360,32.0,Tue,2024-11-05,21:30,Bahia,1.5,0–3,1.1,São Paulo,,Itaipava Arena Fonte Nova,Alex Gomes Stefano,0,3,2024-11-05 21:30:00,3,November
+358,32.0,Fri,2024-11-01,21:00,Fluminense,2.3,2–2,1.4,Grêmio,,Estadio Jornalista Mário Filho,Matheus Delgado Candançan,2,2,2024-11-01 21:00:00,4,November
+366,33.0,Fri,2024-11-08,19:00,Internacional,1.2,2–0,0.9,Fluminense,,Estádio José Pinheiro Borba,Luiz Flávio de Oliveira,2,0,2024-11-08 19:00:00,2,November
+367,33.0,Sat,2024-11-09,16:30,Vitória,1.6,1–2,0.9,Corinthians,,Estádio Manoel Barradas,Bruno Arleu,1,2,2024-11-09 16:30:00,3,November
+375,33.0,Wed,2024-11-13,20:00,Flamengo,2.1,0–0,0.8,Atlético Mineiro,,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda,0,0,2024-11-13 20:00:00,0,November
+373,33.0,Fri,2024-11-08,21:30,Palmeiras,2.8,1–0,0.6,Grêmio,,Allianz Parque,Marcelo de Lima Henrique,1,0,2024-11-08 21:30:00,1,November
+369,33.0,Sat,2024-11-09,19:00,Cruzeiro,3.2,2–1,1.1,Criciúma,,Estádio Governador Magalhães Pinto,Wagner do Nascimento Magalhães,2,1,2024-11-09 19:00:00,3,November
+372,33.0,Sat,2024-11-09,19:00,Juventude,2.2,2–1,0.7,Bahia,,Estádio Alfredo Jaconi,Wilton Sampaio,2,1,2024-11-09 19:00:00,3,November
+371,33.0,Sat,2024-11-09,19:00,Atl Goianiense,0.4,0–0,1.6,Red Bull Bragantino,,Estádio Antônio Accioly,Anderson Daronco,0,0,2024-11-09 19:00:00,0,November
+374,33.0,Sat,2024-11-09,21:00,São Paulo,1.4,2–1,0.2,Ath Paranaense,,Estádio do Morumbi,Rafael Klein,2,1,2024-11-09 21:00:00,3,November
+368,33.0,Sat,2024-11-09,16:30,Botafogo (RJ),2.6,0–0,0.2,Cuiabá,,Estádio Nilton Santos,Rodrigo José Pereira de Lima,0,0,2024-11-09 16:30:00,0,November
+370,33.0,Sat,2024-11-09,19:00,Fortaleza,2.3,3–0,0.2,Vasco da Gama,,Estádio Castelão,Lucas Paulo Torezin,3,0,2024-11-09 19:00:00,3,November
+393,34.0,Fri,2024-11-22,21:30,Fluminense,0.9,2–2,1.2,Fortaleza,,Estadio Jornalista Mário Filho,Raphael Claus,2,2,2024-11-22 21:30:00,4,November
+386,34.0,Thu,2024-11-21,20:00,Vasco da Gama,0.9,0–1,1.0,Internacional,,Estádio Club de Regatas Vasco da Gama,Rodrigo José Pereira de Lima,0,1,2024-11-21 20:00:00,1,November
+387,34.0,Wed,2024-11-20,21:30,Atlético Mineiro,0.1,0–0,2.0,Botafogo (RJ),,Estádio Raimundo Sampaio,Luiz Flávio de Oliveira,0,0,2024-11-20 21:30:00,0,November
+382,34.0,Wed,2024-11-20,16:30,Criciúma,0.9,0–1,1.1,Vitória,,Estádio Heriberto Hülse,Rafael Klein,0,1,2024-11-20 16:30:00,1,November
+381,34.0,Wed,2024-11-20,16:30,Red Bull Bragantino,1.7,1–1,0.4,São Paulo,,Estádio Nabi Abi Chedid,Wilton Sampaio,1,1,2024-11-20 16:30:00,2,November
+384,34.0,Wed,2024-11-20,18:00,Cuiabá,0.4,1–2,1.9,Flamengo,12891.0,Arena Pantanal,Edina Alves,1,2,2024-11-20 18:00:00,3,November
+385,34.0,Wed,2024-11-20,19:00,Grêmio,0.7,2–2,1.5,Juventude,,Arena do Grêmio,Bruno Arleu,2,2,2024-11-20 19:00:00,4,November
+379,34.0,Wed,2024-11-20,11:00,Corinthians,3.1,2–1,0.3,Cruzeiro,,Neo Química Arena,Jonathan Benkenstein Pinheiro,2,1,2024-11-20 11:00:00,3,November
+380,34.0,Wed,2024-11-20,16:30,Ath Paranaense,2.0,2–0,1.2,Atl Goianiense,,Ligga Arena,Alex Gomes Stefano,2,0,2024-11-20 16:30:00,2,November
+383,34.0,Wed,2024-11-20,18:00,Bahia,1.8,1–2,0.5,Palmeiras,,Itaipava Arena Fonte Nova,Wagner do Nascimento Magalhães,1,2,2024-11-20 18:00:00,3,November
+398,35.0,Sat,2024-11-23,21:30,São Paulo,1.0,2–2,1.0,Atlético Mineiro,,Estádio do Morumbi,Alex Gomes Stefano,2,2,2024-11-23 21:30:00,4,November
+397,35.0,Sun,2024-11-24,16:00,Corinthians,1.2,3–1,0.3,Vasco da Gama,,Neo Química Arena,Davi de Oliveira Lacerda,3,1,2024-11-24 16:00:00,4,November
+396,35.0,Sun,2024-11-24,16:00,Internacional,2.9,4–1,0.3,Red Bull Bragantino,,Estádio José Pinheiro Borba,Marcelo de Lima Henrique,4,1,2024-11-24 16:00:00,5,November
+399,35.0,Tue,2024-11-26,19:00,Fluminense,1.0,0–0,0.8,Criciúma,,Estadio Jornalista Mário Filho,Luiz Flávio de Oliveira,0,0,2024-11-26 19:00:00,0,November
+395,35.0,Sun,2024-11-24,16:00,Bahia,1.8,1–1,0.8,Ath Paranaense,,Itaipava Arena Fonte Nova,Rodrigo José Pereira de Lima,1,1,2024-11-24 16:00:00,2,November
+405,35.0,Wed,2024-11-27,21:00,Cruzeiro,1.5,1–1,0.8,Grêmio,,Estádio Governador Magalhães Pinto,Raphael Claus,1,1,2024-11-27 21:00:00,2,November
+389,35.0,Sat,2024-11-23,19:30,Atl Goianiense,0.2,0–1,1.1,Palmeiras,,Estádio Antônio Accioly,Jonathan Benkenstein Pinheiro,0,1,2024-11-23 19:30:00,1,November
+391,35.0,Sat,2024-11-23,19:30,Juventude,1.4,1–1,0.6,Cuiabá,,Estádio Alfredo Jaconi,Matheus Delgado Candançan,1,1,2024-11-23 19:30:00,2,November
+400,35.0,Tue,2024-11-26,20:00,Fortaleza,0.2,0–0,1.3,Flamengo,,Estádio Castelão,Anderson Daronco,0,0,2024-11-26 20:00:00,0,November
+390,35.0,Sat,2024-11-23,19:30,Botafogo (RJ),1.8,1–1,0.5,Vitória,,Estádio Nilton Santos,Ramon Abatti,1,1,2024-11-23 19:30:00,2,November
+407,36.0,Sat,2024-11-30,18:30,Cuiabá,1.6,1–2,1.1,Bahia,,Arena Pantanal,Davi de Oliveira Lacerda,1,2,2024-11-30 18:30:00,3,November
+410,36.0,Sun,2024-12-01,16:00,Flamengo,2.1,3–2,1.1,Internacional,,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima,3,2,2024-12-01 16:00:00,5,December
+412,36.0,Sun,2024-12-01,18:30,Red Bull Bragantino,0.4,1–1,1.4,Cruzeiro,,Estádio Nabi Abi Chedid,Rafael Klein,1,1,2024-12-01 18:30:00,2,December
+411,36.0,Sun,2024-12-01,18:30,Vitória,2.7,2–0,0.6,Fortaleza,,Estádio Manoel Barradas,Wilton Sampaio,2,0,2024-12-01 18:30:00,2,December
+403,36.0,Tue,2024-11-26,21:30,Palmeiras,1.5,1–3,1.6,Botafogo (RJ),31753.0,Allianz Parque,Wilton Sampaio,1,3,2024-11-26 21:30:00,4,November
+402,36.0,Tue,2024-11-26,21:30,Atlético Mineiro,3.1,2–3,1.0,Juventude,,Estádio Raimundo Sampaio,Flavio Rodrigues de Souza,2,3,2024-11-26 21:30:00,5,November
+414,36.0,Sat,2024-11-30,21:30,Vasco da Gama,1.6,2–2,1.2,Atl Goianiense,,Estádio Club de Regatas Vasco da Gama,Lucas Paulo Torezin,2,2,2024-11-30 21:30:00,4,November
+408,36.0,Sat,2024-11-30,19:30,Criciúma,0.8,2–4,2.3,Corinthians,,Estádio Heriberto Hülse,Anderson Daronco,2,4,2024-11-30 19:30:00,6,November
+409,36.0,Sun,2024-12-01,16:00,Grêmio,1.7,2–1,0.3,São Paulo,,Arena do Grêmio,Ramon Abatti,2,1,2024-12-01 16:00:00,3,December
+413,36.0,Sun,2024-12-01,18:30,Ath Paranaense,1.1,1–1,1.3,Fluminense,,Ligga Arena,Raphael Claus,1,1,2024-12-01 18:30:00,2,December
+419,37.0,Wed,2024-12-04,20:00,Vitória,1.5,1–1,0.6,Grêmio,,Estádio Manoel Barradas,Alex Gomes Stefano,1,1,2024-12-04 20:00:00,2,December
+418,37.0,Wed,2024-12-04,20:00,Criciúma,0.7,0–3,1.8,Flamengo,,Estádio Heriberto Hülse,Wilton Sampaio,0,3,2024-12-04 20:00:00,3,December
+417,37.0,Wed,2024-12-04,19:00,Vasco da Gama,1.4,2–0,0.7,Atlético Mineiro,,Estádio Club de Regatas Vasco da Gama,Davi de Oliveira Lacerda,2,0,2024-12-04 19:00:00,2,December
+416,37.0,Tue,2024-12-03,20:00,Corinthians,1.8,3–0,0.4,Bahia,,Neo Química Arena,Bruno Arleu,3,0,2024-12-03 20:00:00,3,December
+422,37.0,Thu,2024-12-05,20:00,Ath Paranaense,1.8,1–2,0.7,Red Bull Bragantino,,Ligga Arena,Rodrigo José Pereira de Lima,1,2,2024-12-05 20:00:00,3,December
+423,37.0,Wed,2024-12-04,21:30,Atl Goianiense,2.1,3–1,1.5,Fortaleza,,Estádio Antônio Accioly,Lucas Casagrande,3,1,2024-12-04 21:30:00,4,December
+424,37.0,Wed,2024-12-04,21:30,Internacional,0.9,0–1,0.1,Botafogo (RJ),,Estádio José Pinheiro Borba,Ramon Abatti,0,1,2024-12-04 21:30:00,1,December
+425,37.0,Wed,2024-12-04,21:30,Cruzeiro,0.7,1–2,2.8,Palmeiras,,Estádio Governador Magalhães Pinto,Anderson Daronco,1,2,2024-12-04 21:30:00,3,December
+421,37.0,Thu,2024-12-05,20:00,Fluminense,2.0,1–0,0.0,Cuiabá,,Estadio Jornalista Mário Filho,Rafael Klein,1,0,2024-12-05 20:00:00,1,December
+420,37.0,Wed,2024-12-04,20:00,São Paulo,0.5,1–2,1.1,Juventude,,Estádio do Morumbi,Savio Pereira,1,2,2024-12-04 20:00:00,3,December
+430,38.0,Sun,2024-12-08,16:00,Red Bull Bragantino,3.1,5–1,0.3,Criciúma,,Estádio Nabi Abi Chedid,Savio Pereira,5,1,2024-12-08 16:00:00,6,December
+429,38.0,Sun,2024-12-08,16:00,Flamengo,2.0,2–2,1.0,Vitória,,Estadio Jornalista Mário Filho,Lucas Casagrande,2,2,2024-12-08 16:00:00,4,December
+432,38.0,Sun,2024-12-08,16:00,Grêmio,0.9,0–3,2.1,Corinthians,,Arena do Grêmio,Paulo Zanovelli,0,3,2024-12-08 16:00:00,3,December
+431,38.0,Sun,2024-12-08,16:00,Fortaleza,1.3,3–0,1.2,Internacional,,Estádio Castelão,Matheus Delgado Candançan,3,0,2024-12-08 16:00:00,3,December
+427,38.0,Sun,2024-12-08,15:00,Cuiabá,2.3,1–2,1.1,Vasco da Gama,,Arena Pantanal,Thaillan Azevedo Gomes,1,2,2024-12-08 15:00:00,3,December
+428,38.0,Sun,2024-12-08,16:00,Botafogo (RJ),1.9,2–1,0.4,São Paulo,,Estádio Nilton Santos,Anderson Daronco,2,1,2024-12-08 16:00:00,3,December
+435,38.0,Sun,2024-12-08,16:00,Juventude,1.4,0–1,0.6,Cruzeiro,,Estádio Alfredo Jaconi,Edina Alves,0,1,2024-12-08 16:00:00,1,December
+436,38.0,Sun,2024-12-08,16:00,Atlético Mineiro,1.4,1–0,0.3,Ath Paranaense,,Arena MRV,Rafael Klein,1,0,2024-12-08 16:00:00,1,December
+434,38.0,Sun,2024-12-08,16:00,Bahia,2.9,2–0,0.6,Atl Goianiense,48476.0,Itaipava Arena Fonte Nova,Gustavo Ervino Bauermann,2,0,2024-12-08 16:00:00,2,December
+433,38.0,Sun,2024-12-08,16:00,Palmeiras,0.4,0–1,0.9,Fluminense,,Allianz Parque,Ramon Abatti,0,1,2024-12-08 16:00:00,1,December
